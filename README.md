@@ -1,4 +1,4 @@
-# Sales Insights for AtliQ  
+# Sales Insights for AtliQ  -  Tableau Data Analysis Project 
 
 ## 📊 Project Overview  
 This project provides **sales performance insights** for *AtliQ*, helping stakeholders identify key revenue drivers, regional performance, product trends, and customer behavior. Using **Tableau**, the data has been transformed into interactive dashboards that allow for data-driven decision-making.  
