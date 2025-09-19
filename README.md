@@ -3,6 +3,9 @@
 ## 📊 Project Overview  
 This project provides **sales performance insights** for *AtliQ*, helping stakeholders identify key revenue drivers, regional performance, product trends, and customer behavior. Using **Tableau**, the data has been transformed into interactive dashboards that allow for data-driven decision-making.  
 
+<img width="1408" height="753" alt="image" src="https://github.com/user-attachments/assets/69c0f8fd-ba56-4583-90a4-c28cc8fe6c86" />
+
+
 ## 🎯 Objectives  
 - Analyze overall sales performance across different regions, products, and customer segments.  
 - Identify high-performing products and sales channels.  
